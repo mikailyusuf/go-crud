@@ -7,6 +7,3 @@ CREATE TABLE products(
     createdAt TEXT NOT NULL
 
 );
-
--- insert into products (guid,name,price,description,createdAt)
--- values ('guid','appple',1.98,'description','2020-02-03');
